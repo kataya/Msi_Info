@@ -50,6 +50,7 @@ namespace MsiInfo
                 }
 
                 this.textBox1.Text = info;
+                this.textBox2.Text = selfile;//System.IO.Path.GetFileName(selfile);
                 //MessageBox.Show(this, info);
             }
 
@@ -150,6 +151,9 @@ namespace MsiInfo
             return retVal;
         }
 
+        private void label7_Click(object sender, EventArgs e)
+        {
 
+        }
     }
 }
