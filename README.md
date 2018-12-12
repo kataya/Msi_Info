@@ -16,7 +16,7 @@ MSIファイルやMSPファイルのアンインストールは、[プログラ�
 
 
 MSIファイルやMSPファイルのプロパティを確認するには Windows SDK に含まれる Orca を利用することが多いと思いますが、Orcaを利用するためだけに Windows SDK をダウンロードしてインストールするのも面倒なので、.NETでアンインストール用コマンドを取得するためのサンプルコードを作成しました。
-コンパイル済みのアプリケーションは[こちら](https://github.com/kataya/Msi_Info/files/2218401/MsiInfo_v1.0.zip) にあります。
+コンパイル済みのアプリケーションは[こちら](https://github.com/kataya/Msi_Info/releases) にあります。
 
 なお、同様のことをPowershellで実装したサンプルは[こちら](https://github.com/EsriJapan/arcgis-install-batch/tree/master/Ps_Scripts) にあります。
 
